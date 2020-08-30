@@ -1,0 +1,22 @@
+#txt{
+    width:600px;height:500px;
+    font-size :17px ;
+    background-color :#D9E5FF;
+  }
+  #title{
+    color:white;}
+  #msg {
+  background-color:#87cefa;
+  color:white;
+  }
+  #star{ 
+      color:white;
+  }
+  body {  background-image: url("https://www.pakutaso.com/shared/img/thumb/027Yamasha17103_TP_V.jpg"); }
+ 
+  #container{
+     display: flex;
+     flex-direction: row;
+ }
+
+
